@@ -11,7 +11,7 @@ Bobbin Bodo
 Yvonnie Muthoni
 
 
-# An Analytical Deep-Dive into the Film industry to get ationable insights so as to venture in the film business
+# An Analytical Deep-Dive into the Film industry to get actionable insights so as to venture in the film business
 
 ## Business Problem
 Our company now sees all the big companies creating original video content and we want to get in on the fun. We have decided to create a new movie studio, but we don’t know anything about creating movies. We exploring what types of films are currently doing the best at the box office. We then translate those findings into actionable insights that the head of our company's new movie studio can use to help decide what type of films to create.
