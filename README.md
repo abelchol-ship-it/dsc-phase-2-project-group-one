@@ -117,8 +117,5 @@ The data aggregates "Foreign Gross," but the international market is not a monol
 To overcome these limitations, the next step should be to supplement this quantitative analysis with qualitative market research, specifically focusing on current streaming trends (2021–2024) and social sentiment analysis.
 
 ## Tableau Visualization link
-An interactive version of the analysis is available on Tableau:
+**[[Click here for an interactive version of the analysis available on Tableau:](http://public.tableau.com/views/phase-2-project-group-one-Tableau/MovieInsightStroytelling?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
 
-[Tableau link] 
-
-[def]: <https://public.tableau.com/views/phase-2-project-group-one-Tableau/MovieInsightStroytelling?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
